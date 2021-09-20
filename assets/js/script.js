@@ -117,7 +117,7 @@ var texto1 = document.querySelector('.mudarTextoDescricao')
     })
 
     document.querySelector('.bootstrap').addEventListener('mouseover', function (){
-        texto1.innerHTML = 'Bootstrap é um framework para desenvolvimento de componentes de interface front-end para sites e aplicações web usando HTML, CSS e JavaScript. <br><br> 1 ano de experiência'
+        texto1.innerHTML = 'Bootstrap é um framework para desenvolvimento de componentes de interface front-end para sites e aplicações web usando HTML, CSS e JavaScript. <br><br> 2 ano de experiência'
     })
 
     document.querySelector('.sass').addEventListener('mouseover', function (){
@@ -129,11 +129,11 @@ var texto1 = document.querySelector('.mudarTextoDescricao')
     })
 
     document.querySelector('.next').addEventListener('mouseover', function (){
-        texto1.innerHTML = 'O MySQL é um sistema de gerenciamento de banco de dados relacionais (RBDMs) de código aberto (open source) com um funcionamento baseado em um modelo do tipo cliente-servidor<br><br> 2 anos de experiência'
+        texto1.innerHTML = 'O MySQL é um sistema de gerenciamento de banco de dados relacionais (RBDMs) de código aberto (open source) com um funcionamento baseado em um modelo do tipo cliente-servidor<br><br> 3 anos de experiência'
     })
 
     document.querySelector('.styled').addEventListener('mouseover', function mudarTexto8(){
-        texto1.innerHTML = 'Python é uma linguagem de uso geral, que pode ser utilizada para diversas aplicações. Apresenta uma sintaxe simples, tornando os programas mais legíveis, o que também facilita o aprendizado da linguagem <br><br> 1 mês de experiência'
+        texto1.innerHTML = 'Python é uma linguagem de uso geral, que pode ser utilizada para diversas aplicações. Apresenta uma sintaxe simples, tornando os programas mais legíveis, o que também facilita o aprendizado da linguagem <br><br> 6 mêses de experiência'
     })
 
     var sairCaixa = document.getElementsByClassName('sairCaixa')
